@@ -1,9 +1,9 @@
 bg = new BackgroundLayer
 	backgroundColor: "#111"
 	
-{Bars} = require "bars"
+{BouncyBars} = require "bouncybars"
 	
-bars = new Bars
+bars = new BouncyBars
 	barHeight: 200
 	barWidth: 20
 	barPadding: 10
